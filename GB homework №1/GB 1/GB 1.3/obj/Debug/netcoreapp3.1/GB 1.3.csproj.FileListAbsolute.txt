@@ -1,0 +1,14 @@
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\bin\Debug\netcoreapp3.1\GB 1.3.exe
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\bin\Debug\netcoreapp3.1\GB 1.3.deps.json
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\bin\Debug\netcoreapp3.1\GB 1.3.runtimeconfig.json
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\bin\Debug\netcoreapp3.1\GB 1.3.runtimeconfig.dev.json
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\bin\Debug\netcoreapp3.1\GB 1.3.dll
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\bin\Debug\netcoreapp3.1\GB 1.3.pdb
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\obj\Debug\netcoreapp3.1\GB 1.3.csproj.AssemblyReference.cache
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\obj\Debug\netcoreapp3.1\GB 1.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\obj\Debug\netcoreapp3.1\GB 1.3.AssemblyInfoInputs.cache
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\obj\Debug\netcoreapp3.1\GB 1.3.AssemblyInfo.cs
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\obj\Debug\netcoreapp3.1\GB 1.3.csproj.CoreCompileInputs.cache
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\obj\Debug\netcoreapp3.1\GB 1.3.dll
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\obj\Debug\netcoreapp3.1\GB 1.3.pdb
+D:\VisualProjects\GB homework №1\GB 1\GB 1.3\obj\Debug\netcoreapp3.1\GB 1.3.genruntimeconfig.cache
